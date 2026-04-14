@@ -189,7 +189,7 @@ Error generating stack: `+a.message+`
  */const lx=[["path",{d:"M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5",key:"1gvzjb"}],["path",{d:"M9 18h6",key:"x1upvd"}],["path",{d:"M10 22h4",key:"ceow96"}]],Bm=me("lightbulb",lx);/**
  * @license lucide-react v0.563.0 - ISC
  *
- * This source code is licensed under the ISC license.
+ * This source code1 is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */const ax=[["path",{d:"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0",key:"1r0f0z"}],["circle",{cx:"12",cy:"10",r:"3",key:"ilqhr7"}]],nx=me("map-pin",ax);/**
  * @license lucide-react v0.563.0 - ISC
